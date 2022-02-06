@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\bin\Debug\Tarea 12.exe.config
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\bin\Debug\Tarea 12.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\bin\Debug\Tarea 12.pdb
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.g.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea_12.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 12\Tarea 12\obj\Debug\Tarea 12.pdb

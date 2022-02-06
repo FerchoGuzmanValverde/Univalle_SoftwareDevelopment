@@ -1,0 +1,18 @@
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.g.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea1\Tarea1\obj\Debug\Tarea1.pdb

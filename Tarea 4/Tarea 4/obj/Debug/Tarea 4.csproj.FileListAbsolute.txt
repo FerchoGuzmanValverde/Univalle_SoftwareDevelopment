@@ -1,0 +1,18 @@
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\bin\Debug\Tarea 4.exe.config
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\bin\Debug\Tarea 4.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\bin\Debug\Tarea 4.pdb
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.g.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea_4.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.pdb
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea 4\Tarea 4\bin\Debug\Tarea 4.exe.config
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.exe
+F:\Univalle\1 UNIVALLE\1 Desarrollo de Software\Tarea\Tarea 4\Tarea 4\obj\Debug\Tarea 4.pdb

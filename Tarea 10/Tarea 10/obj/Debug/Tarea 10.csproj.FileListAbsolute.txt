@@ -1,0 +1,15 @@
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\bin\Debug\Tarea 10.exe.config
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\bin\Debug\Tarea 10.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\bin\Debug\Tarea 10.pdb
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\MainWindow.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\App.g.cs
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10_MarkupCompile.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10_MarkupCompile.lref
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\MainWindow.baml
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.g.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea_10.Properties.Resources.resources
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.csproj.GenerateResource.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.exe
+C:\Users\Fernando\Desktop\Computer Science\1 anio UNIVALLE\Desarrollo de Software\Tarea\Tarea 10\Tarea 10\obj\Debug\Tarea 10.pdb
